@@ -215,6 +215,7 @@ A mixture of free and open source font resources.
 ## Design freebies
 
 * https://freedesignresources.net/all-freebies/
+* https://deszone.net
 
 ## Icons
 
