@@ -212,6 +212,10 @@ A mixture of free and open source font resources.
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
 * [Canva Font Combinations (Type Genius)](https://www.canva.com/font-combinations/) - Fantastic type pairing tool.
 
+## Design freebies
+
+* https://freedesignresources.net/all-freebies/
+
 ## Icons
 
 ### Icon Fonts
